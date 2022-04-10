@@ -1,5 +1,4 @@
-1B 1B 00 1D 2B 06 00 36 17 1B 1A 01 36 08 18 0E 14 
-
+09-3f-28-29-2f-3c-39-22-7a-63-10-1b-79-3e-31-10-27-21-7d-0b-2d-2a-39-7a-27-6b-0c-3e-7a-27-10-60-08-7b-2d-10-66-3f-2a-61-7b-2e
 
 
 Do you have what it takes to solve this challenge? 
